@@ -2,7 +2,7 @@
   "name": "ng2-mqtt",
   "version": "0.1.2",
   "description": "Port of mqttws31 library for angular2",
-  "main": "./mqttwe31",
+  "main": "./mqttws31",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
